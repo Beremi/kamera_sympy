@@ -4,6 +4,814 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  1.0$ & $ -0.9$ & $308.5$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ -0.0$ & $  0.1$ & $309.7$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+2. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  2.0$ & $  0.2$ & $309.8$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  2.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+3. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  5.0$ & $  0.2$ & $309.8$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  5.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+4. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  6.9$ & $  0.2$ & $309.8$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  7.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+5. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  9.9$ & $  0.2$ & $309.7$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $ 10.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+6. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ 11.9$ & $  0.2$ & $309.7$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $ 12.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+7. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ 14.8$ & $  0.2$ & $309.6$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $ 15.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+8. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ 16.8$ & $  0.2$ & $309.6$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $ 17.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+9. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ 19.8$ & $  0.2$ & $309.3$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $ 20.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+10. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ 21.8$ & $  0.2$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $ 22.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+11. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ 24.8$ & $  0.2$ & $309.5$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $ 25.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+12. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -2.0$ & $  0.0$ & $309.8$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $ -2.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+13. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -5.0$ & $  0.0$ & $309.7$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $ -5.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+14. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -7.0$ & $  0.0$ & $309.7$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $ -7.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+15. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -9.9$ & $  0.0$ & $309.6$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $-10.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+16. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $-11.9$ & $  0.0$ & $309.6$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $-12.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+17. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $-14.8$ & $  0.0$ & $309.6$ & $  0.0$ & $ -0.0$ & $ -0.0$ \\ 
+{Elvac} & $-15.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+18. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $-16.8$ & $  0.1$ & $309.6$ & $ -0.0$ & $ -0.0$ & $ -0.0$ \\ 
+{Elvac} & $-17.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+19. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $-19.8$ & $  0.1$ & $309.5$ & $ -0.0$ & $ -0.0$ & $ -0.0$ \\ 
+{Elvac} & $-20.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+20. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $-21.8$ & $  0.1$ & $309.5$ & $ -0.0$ & $ -0.0$ & $ -0.0$ \\ 
+{Elvac} & $-22.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+21. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $-24.8$ & $  0.1$ & $309.4$ & $ -0.0$ & $ -0.0$ & $ -0.0$ \\ 
+{Elvac} & $-25.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+22. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.0$ & $  5.1$ & $309.8$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  0.0$ & $  5.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+23. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.0$ & $ 10.1$ & $309.6$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  0.0$ & $ 10.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+24. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.0$ & $ 15.0$ & $309.6$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  0.0$ & $ 15.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+25. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.0$ & $ 20.0$ & $309.5$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $ 20.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+26. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.0$ & $ 24.9$ & $309.4$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $ 25.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+27. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.0$ & $ 29.9$ & $309.2$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $ 30.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+28. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.0$ & $ 34.8$ & $309.0$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  0.0$ & $ 35.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+29. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.0$ & $ 39.8$ & $308.8$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $ 40.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+30. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.0$ & $ 44.7$ & $308.7$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  0.0$ & $ 45.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+31. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.0$ & $ 49.7$ & $308.6$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  0.0$ & $ 50.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+32. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.0$ & $ -4.9$ & $309.8$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $ -5.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+33. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.0$ & $ -9.8$ & $309.7$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $-10.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+34. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.0$ & $-14.7$ & $309.7$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $-15.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+35. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.0$ & $-19.7$ & $309.7$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $-20.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+36. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.0$ & $-24.6$ & $309.5$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $-25.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+37. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.1$ & $-29.6$ & $309.4$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $-30.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+38. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.1$ & $-34.5$ & $309.4$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $-35.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+39. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.1$ & $-39.5$ & $309.2$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $-40.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+40. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.1$ & $-44.5$ & $308.9$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $-45.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+41. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.1$ & $-49.4$ & $309.0$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $-50.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+42. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.1$ & $  0.2$ & $304.6$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $304.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+43. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.0$ & $  0.2$ & $299.3$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $299.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+44. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.1$ & $  0.1$ & $294.0$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $294.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+45. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.0$ & $  0.1$ & $288.9$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $289.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+46. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.1$ & $  0.1$ & $283.7$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $284.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+47. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.1$ & $  0.0$ & $278.5$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $279.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+48. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.1$ & $ -0.0$ & $273.2$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $274.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+49. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.1$ & $ -0.0$ & $268.0$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $269.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+50. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.1$ & $ -0.0$ & $262.7$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $264.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+51. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.1$ & $ -0.0$ & $257.4$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $259.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+52. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.1$ & $  0.2$ & $304.9$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $304.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+53. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.0$ & $  0.2$ & $300.1$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $299.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+54. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.1$ & $  0.2$ & $295.4$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $294.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+55. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.2$ & $  0.2$ & $290.5$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $289.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+56. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.2$ & $  0.3$ & $285.9$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $284.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+57. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.1$ & $  0.2$ & $281.1$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $279.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+58. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.0$ & $  0.2$ & $276.1$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $274.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+59. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.1$ & $  0.2$ & $271.3$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $269.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+60. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.0$ & $  0.3$ & $266.4$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $264.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+61. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.1$ & $  0.2$ & $261.6$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $259.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+62. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.0$ & $-27.2$ & $308.7$ & $  4.9$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $-27.0$ & $308.3$ & $  5.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+63. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.0$ & $-54.1$ & $305.3$ & $  9.7$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $-53.7$ & $304.8$ & $ 10.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+64. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.0$ & $-81.1$ & $299.5$ & $ 14.6$ & $ -0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $-80.1$ & $299.0$ & $ 15.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+65. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.0$ & $-107.4$ & $291.8$ & $ 19.5$ & $ -0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $-105.9$ & $290.8$ & $ 20.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+66. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.0$ & $ 27.9$ & $308.4$ & $ -5.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $ 27.0$ & $308.3$ & $ -5.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+67. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.0$ & $ 55.8$ & $305.3$ & $-10.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $ 53.7$ & $304.8$ & $-10.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+68. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.0$ & $ 81.3$ & $299.6$ & $-14.6$ & $ -0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $ 80.1$ & $299.0$ & $-15.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+69. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.1$ & $110.1$ & $291.6$ & $-20.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  0.0$ & $105.9$ & $290.8$ & $-20.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+70. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ 11.1$ & $  0.1$ & $309.5$ & $  0.0$ & $  2.0$ & $  0.0$ \\ 
+{Elvac} & $ 10.8$ & $  0.0$ & $309.3$ & $  0.0$ & $  2.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+71. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ 21.9$ & $  0.0$ & $309.2$ & $  0.0$ & $  3.9$ & $  0.0$ \\ 
+{Elvac} & $ 21.6$ & $  0.0$ & $308.7$ & $  0.0$ & $  4.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+72. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ 32.8$ & $ -0.0$ & $308.3$ & $  0.0$ & $  5.9$ & $ -0.0$ \\ 
+{Elvac} & $ 32.4$ & $  0.0$ & $307.8$ & $  0.0$ & $  6.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+73. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ 43.7$ & $ -0.0$ & $307.2$ & $  0.0$ & $  7.8$ & $ -0.0$ \\ 
+{Elvac} & $ 43.1$ & $  0.0$ & $306.5$ & $  0.0$ & $  8.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+74. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $-27.9$ & $  0.2$ & $308.4$ & $ -0.0$ & $ -5.0$ & $  0.0$ \\ 
+{Elvac} & $-27.0$ & $  0.0$ & $308.3$ & $  0.0$ & $ -5.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+75. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $-55.9$ & $  0.2$ & $304.8$ & $ -0.0$ & $-10.0$ & $  0.0$ \\ 
+{Elvac} & $-53.7$ & $  0.0$ & $304.8$ & $  0.0$ & $-10.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+76. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $-83.5$ & $  0.2$ & $299.1$ & $ -0.0$ & $-15.0$ & $  0.0$ \\ 
+{Elvac} & $-80.1$ & $  0.0$ & $299.0$ & $  0.0$ & $-15.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+77. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $-108.0$ & $  0.1$ & $291.4$ & $  0.0$ & $-19.5$ & $ -0.0$ \\ 
+{Elvac} & $-105.9$ & $  0.0$ & $290.8$ & $  0.0$ & $-20.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+78. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.0$ & $  0.1$ & $309.4$ & $ -0.0$ & $ -0.0$ & $ -2.1$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  5.0$ \\ \hline 
+\end{tabular}
+ 
+79. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.0$ & $ -0.0$ & $305.3$ & $ -0.0$ & $ -0.0$ & $-10.6$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $ 10.0$ \\ \hline 
+\end{tabular}
+ 
+80. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.1$ & $ -0.1$ & $282.1$ & $  0.0$ & $ -0.0$ & $ 11.3$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $ 15.0$ \\ \hline 
+\end{tabular}
+ 
+81. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.1$ & $ -0.2$ & $265.2$ & $  0.0$ & $ -0.0$ & $ 16.2$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $ 20.0$ \\ \hline 
+\end{tabular}
+ 
+82. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  0.0$ & $  0.0$ & $309.3$ & $ -0.0$ & $ -0.0$ & $  8.1$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $ -5.0$ \\ \hline 
+\end{tabular}
+ 
+83. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.1$ & $  0.4$ & $305.7$ & $ -0.0$ & $ -0.0$ & $ 10.5$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $-10.0$ \\ \hline 
+\end{tabular}
+ 
+84. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.1$ & $  0.3$ & $282.1$ & $  0.0$ & $  0.0$ & $-11.4$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $-15.0$ \\ \hline 
+\end{tabular}
+ 
+85. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.2$ & $  0.3$ & $265.2$ & $  0.0$ & $ -0.0$ & $-16.2$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $-20.0$ \\ \hline 
+\end{tabular}
+ 
+86. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  4.9$ & $ 10.0$ & $309.6$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $  5.0$ & $ 10.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+87. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  9.8$ & $  4.9$ & $309.7$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $ 10.0$ & $  5.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+88. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  9.9$ & $ 10.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $ 10.0$ & $ 10.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+89. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ 31.7$ & $-16.7$ & $301.1$ & $  4.9$ & $  4.9$ & $ -0.1$ \\ 
+{Elvac} & $ 31.5$ & $-16.4$ & $302.2$ & $  5.0$ & $  5.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+90. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ 62.0$ & $ 31.0$ & $279.7$ & $ -5.2$ & $  8.2$ & $ 11.9$ \\ 
+{Elvac} & $ 53.1$ & $ 31.7$ & $300.3$ & $ -5.0$ & $  8.0$ & $ 15.0$ \\ \hline 
+\end{tabular}
+ 
+91. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $-44.8$ & $-36.9$ & $241.4$ & $  5.2$ & $ -5.3$ & $ 21.6$ \\ 
+{Elvac} & $-31.1$ & $-36.0$ & $297.2$ & $  5.0$ & $ -5.0$ & $ 25.0$ \\ \hline 
+\end{tabular}
+ 
+92. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $-109.4$ & $-448.1$ & $ 85.2$ & $ 19.7$ & $-10.7$ & $ 40.2$ \\ 
+{Elvac} & $-38.7$ & $-73.9$ & $294.4$ & $ 15.0$ & $-10.0$ & $ 40.0$ \\ \hline 
+\end{tabular}
+ 
+93. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ 18.6$ & $-10.2$ & $269.9$ & $  0.2$ & $  4.0$ & $-11.1$ \\ 
+{Elvac} & $ 11.6$ & $ -5.0$ & $298.7$ & $  0.0$ & $  4.0$ & $-15.0$ \\ \hline 
+\end{tabular}
+ 
+94. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ 35.5$ & $-29.2$ & $278.5$ & $  4.8$ & $  5.8$ & $ 11.2$ \\ 
+{Elvac} & $ 32.4$ & $-26.8$ & $306.6$ & $  5.0$ & $  6.0$ & $ 15.0$ \\ \hline 
+\end{tabular}
+ 
+95. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $-64.6$ & $ 33.4$ & $262.0$ & $ -5.3$ & $-10.2$ & $-16.3$ \\ 
+{Elvac} & $-53.7$ & $ 26.6$ & $303.6$ & $ -5.0$ & $-10.0$ & $-20.0$ \\ \hline 
+\end{tabular}
+ 
+96. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $-76.9$ & $-48.9$ & $296.1$ & $  9.0$ & $-13.7$ & $  3.2$ \\ 
+{Elvac} & $-80.1$ & $-51.9$ & $294.4$ & $ 10.0$ & $-15.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+97. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -5.0$ & $-107.4$ & $291.8$ & $ 19.5$ & $ -0.0$ & $ -0.2$ \\ 
+{Elvac} & $ -5.0$ & $-105.9$ & $290.8$ & $ 20.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+98. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $-27.7$ & $  9.9$ & $308.6$ & $  0.0$ & $ -4.9$ & $ -0.1$ \\ 
+{Elvac} & $-27.0$ & $ 10.0$ & $308.3$ & $  0.0$ & $ -5.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+99. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $ -0.5$ & $ -0.1$ & $169.5$ & $ -0.0$ & $ -0.0$ & $ 35.7$ \\ 
+{Elvac} & $  0.0$ & $  0.0$ & $304.5$ & $  0.0$ & $  0.0$ & $ 40.0$ \\ \hline 
+\end{tabular}
+ 
+100. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $-50.9$ & $-99.5$ & $247.5$ & $ 10.3$ & $ -5.5$ & $ 27.0$ \\ 
+{Elvac} & $-12.0$ & $-78.5$ & $303.6$ & $ 10.0$ & $ -5.0$ & $ 30.0$ \\ \hline 
+\end{tabular}
+ 
+101. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  9.9$ & $  4.9$ & $257.3$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Elvac} & $ 10.0$ & $  5.0$ & $259.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
+\end{tabular}
+ 
+102. konfigurace 
+ 
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline & X & Y & Z & alpha & beta & gamma \\ \hline 
+{Matlab} & $  5.1$ & $  9.9$ & $204.3$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Elvac} & $  5.0$ & $ 10.0$ & $209.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
