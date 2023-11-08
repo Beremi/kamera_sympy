@@ -47,7 +47,7 @@ L = 9.5*1e-3;
 
 fileID = fopen('Table.txt','w');
 fileID2 = fopen('Table_calib.txt','w');
-
+F_val=[];
 for j=1:102
        
     x=X(j,:)';
@@ -81,7 +81,7 @@ for j=1:102
    x(1:3)=x(1:3)*1e3;
 
     [f] = value_f(x(1).*1e-3,x(2).*1e-3,x(3).*1e-3,x(4),x(5),x(6),S.*1e-3,v,n,L);
-    
+    F_val = [F_val valueF(x(1).*1e-3,x(2).*1e-3,x(3).*1e-3,x(4),x(5),x(6),S.*1e-3,f_presc,v,n,L)];
 %     inv_Trasnform_matrix = [0 1 0; -1 0 0; 0 0 1];
 %     inv_Trasnform_matrix = [0 1 0; 1 0 0; 0 0 1];
 %     inv_Trasnform_matrix_rotation = [0 -1 0; 1 0 0; 0 0 1];

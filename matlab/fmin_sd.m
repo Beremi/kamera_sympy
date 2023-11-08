@@ -68,7 +68,7 @@ while fxn > fx+alph*lambda*g'*h && lambda>1e-4
     fxn=valueF(xn(1),xn(2),xn(3),xn(4),xn(5),xn(6),S,f_presc,v,n,L);
 end
 
-while abs(fxn-fx)/fx0 >= epsilon && it<100 %fxn/fx0 >= epsilon && it<1000 %norm(xn-x) >= epsilon && it<2000
+while abs(fxn-fx)/fx0 >= epsilon && it<10000 %fxn/fx0 >= epsilon && it<1000 %norm(xn-x) >= epsilon && it<2000
     
     it = it + 1;
     x = xn; 
