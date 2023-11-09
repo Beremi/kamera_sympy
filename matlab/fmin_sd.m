@@ -79,12 +79,13 @@ while abs(fxn-fx)/fx0 >= epsilon && it<100 %fxn/fx0 >= epsilon && it<1000 %norm(
     if norm(g)<=epsil
         gnorm=epsil;
     end
-        
+    H = hessF(x(1),x(2),x(3),x(4),x(5),x(6),S,f_presc,v,n,L);
+    g = H\g;
     d=-g/gnorm;
     
     %   d(4:6)=d(4:6)*1e-2;%*1e-3;
     %line search
-    t=golden_section(S,f_presc,v,n,L,0,0.3,d,1e-3,x(1),x(2),x(3),x(4),x(5),x(6));
+    [t, g_it]=golden_section(S,f_presc,v,n,L,0,0.3,d,1e-3,x(1),x(2),x(3),x(4),x(5),x(6));
     %   d(4:6)=d(4:6)*1e-1;%*1e-3;
     
     %Length step modification

@@ -4,7 +4,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.0$ & $  0.1$ & $309.7$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $  0.1$ & $ -0.0$ & $309.8$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -12,7 +12,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  2.0$ & $  0.2$ & $309.8$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $  3.0$ & $ -0.1$ & $310.0$ & $  0.0$ & $  0.2$ & $  0.0$ \\ 
 {Elvac} & $  2.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -20,7 +20,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  5.0$ & $  0.2$ & $309.8$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $  6.3$ & $ -0.7$ & $310.0$ & $  0.2$ & $  0.3$ & $  0.0$ \\ 
 {Elvac} & $  5.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -28,7 +28,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  6.9$ & $  0.2$ & $309.8$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $  8.5$ & $ -0.7$ & $310.0$ & $  0.2$ & $  0.3$ & $  0.0$ \\ 
 {Elvac} & $  7.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -36,7 +36,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  9.9$ & $  0.2$ & $309.7$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ 12.7$ & $ -0.0$ & $310.1$ & $  0.0$ & $  0.5$ & $  0.0$ \\ 
 {Elvac} & $ 10.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -44,7 +44,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ 11.9$ & $  0.2$ & $309.7$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ 14.8$ & $ -0.0$ & $310.1$ & $  0.0$ & $  0.5$ & $  0.0$ \\ 
 {Elvac} & $ 12.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -52,7 +52,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ 14.8$ & $  0.2$ & $309.6$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ 19.1$ & $  0.6$ & $310.1$ & $ -0.1$ & $  0.8$ & $  0.0$ \\ 
 {Elvac} & $ 15.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -60,7 +60,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ 16.8$ & $  0.2$ & $309.6$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ 21.7$ & $  0.4$ & $310.1$ & $ -0.0$ & $  0.9$ & $  0.0$ \\ 
 {Elvac} & $ 17.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -68,7 +68,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ 19.8$ & $  0.2$ & $309.3$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $ 22.7$ & $ -0.2$ & $309.8$ & $  0.1$ & $  0.5$ & $ -0.0$ \\ 
 {Elvac} & $ 20.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -76,7 +76,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ 21.8$ & $  0.2$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ 27.7$ & $ -0.4$ & $310.3$ & $  0.1$ & $  1.1$ & $  0.0$ \\ 
 {Elvac} & $ 22.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -84,7 +84,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ 24.8$ & $  0.2$ & $309.5$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ 31.0$ & $ -0.1$ & $310.4$ & $  0.1$ & $  1.1$ & $  0.0$ \\ 
 {Elvac} & $ 25.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -92,7 +92,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -2.0$ & $  0.0$ & $309.8$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $ -2.0$ & $ -0.1$ & $309.9$ & $  0.0$ & $ -0.0$ & $ -0.0$ \\ 
 {Elvac} & $ -2.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -100,7 +100,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -5.0$ & $  0.0$ & $309.7$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $ -7.5$ & $  0.0$ & $309.9$ & $ -0.0$ & $ -0.5$ & $ -0.0$ \\ 
 {Elvac} & $ -5.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -108,7 +108,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -7.0$ & $  0.0$ & $309.7$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $ -9.7$ & $  0.6$ & $310.0$ & $ -0.1$ & $ -0.5$ & $ -0.0$ \\ 
 {Elvac} & $ -7.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -116,7 +116,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -9.9$ & $  0.0$ & $309.6$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $-13.1$ & $ -0.0$ & $310.0$ & $  0.0$ & $ -0.6$ & $ -0.0$ \\ 
 {Elvac} & $-10.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -124,7 +124,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $-11.9$ & $  0.0$ & $309.6$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $-15.7$ & $  0.7$ & $310.0$ & $ -0.1$ & $ -0.7$ & $ -0.0$ \\ 
 {Elvac} & $-12.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -132,7 +132,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $-14.8$ & $  0.0$ & $309.6$ & $  0.0$ & $ -0.0$ & $ -0.0$ \\ 
+{Matlab} & $-20.2$ & $ -0.7$ & $310.1$ & $  0.1$ & $ -1.0$ & $ -0.0$ \\ 
 {Elvac} & $-15.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -140,7 +140,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $-16.8$ & $  0.1$ & $309.6$ & $ -0.0$ & $ -0.0$ & $ -0.0$ \\ 
+{Matlab} & $-21.7$ & $ -0.2$ & $310.1$ & $  0.0$ & $ -0.9$ & $ -0.0$ \\ 
 {Elvac} & $-17.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -148,7 +148,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $-19.8$ & $  0.1$ & $309.5$ & $ -0.0$ & $ -0.0$ & $ -0.0$ \\ 
+{Matlab} & $-25.6$ & $  0.6$ & $310.2$ & $ -0.1$ & $ -1.1$ & $ -0.0$ \\ 
 {Elvac} & $-20.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -156,7 +156,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $-21.8$ & $  0.1$ & $309.5$ & $ -0.0$ & $ -0.0$ & $ -0.0$ \\ 
+{Matlab} & $-27.7$ & $  0.6$ & $310.3$ & $ -0.1$ & $ -1.1$ & $ -0.0$ \\ 
 {Elvac} & $-22.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -164,7 +164,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $-24.8$ & $  0.1$ & $309.4$ & $ -0.0$ & $ -0.0$ & $ -0.0$ \\ 
+{Matlab} & $-31.4$ & $  0.7$ & $310.3$ & $ -0.1$ & $ -1.2$ & $ -0.0$ \\ 
 {Elvac} & $-25.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -172,7 +172,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.0$ & $  5.1$ & $309.8$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ -0.1$ & $  5.5$ & $310.0$ & $ -0.1$ & $ -0.0$ & $  0.0$ \\ 
 {Elvac} & $  0.0$ & $  5.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -180,7 +180,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.0$ & $ 10.1$ & $309.6$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ -0.4$ & $ 11.5$ & $309.9$ & $ -0.3$ & $ -0.1$ & $  0.0$ \\ 
 {Elvac} & $  0.0$ & $ 10.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -188,7 +188,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.0$ & $ 15.0$ & $309.6$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $  0.3$ & $ 16.3$ & $309.8$ & $ -0.2$ & $  0.1$ & $  0.0$ \\ 
 {Elvac} & $  0.0$ & $ 15.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -196,7 +196,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.0$ & $ 20.0$ & $309.5$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $ -0.3$ & $ 23.0$ & $309.9$ & $ -0.6$ & $ -0.1$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $ 20.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -204,7 +204,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.0$ & $ 24.9$ & $309.4$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $ -0.4$ & $ 28.1$ & $309.9$ & $ -0.6$ & $ -0.1$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $ 25.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -212,7 +212,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.0$ & $ 29.9$ & $309.2$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $ -0.7$ & $ 33.2$ & $309.8$ & $ -0.6$ & $ -0.1$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $ 30.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -220,7 +220,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.0$ & $ 34.8$ & $309.0$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ -1.3$ & $ 38.8$ & $309.8$ & $ -0.7$ & $ -0.2$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $ 35.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -228,7 +228,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.0$ & $ 39.8$ & $308.8$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $ -0.8$ & $ 44.6$ & $309.8$ & $ -0.9$ & $ -0.1$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $ 40.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -236,7 +236,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.0$ & $ 44.7$ & $308.7$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ -0.3$ & $ 50.4$ & $310.0$ & $ -1.0$ & $ -0.1$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $ 45.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -244,7 +244,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.0$ & $ 49.7$ & $308.6$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ -1.4$ & $ 56.1$ & $310.0$ & $ -1.2$ & $ -0.3$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $ 50.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -252,7 +252,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.0$ & $ -4.9$ & $309.8$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $  0.1$ & $ -5.2$ & $310.0$ & $  0.1$ & $  0.0$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $ -5.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -260,7 +260,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.0$ & $ -9.8$ & $309.7$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $  0.2$ & $-10.7$ & $309.9$ & $  0.2$ & $  0.0$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $-10.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -268,7 +268,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.0$ & $-14.7$ & $309.7$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $ -0.3$ & $-16.8$ & $310.1$ & $  0.4$ & $ -0.1$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $-15.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -276,7 +276,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.0$ & $-19.7$ & $309.7$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $  0.5$ & $-21.6$ & $310.1$ & $  0.3$ & $  0.1$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $-20.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -284,7 +284,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.0$ & $-24.6$ & $309.5$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $  0.1$ & $-27.6$ & $310.0$ & $  0.5$ & $  0.0$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $-25.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -292,7 +292,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.1$ & $-29.6$ & $309.4$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $  0.4$ & $-32.9$ & $310.1$ & $  0.6$ & $  0.1$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $-30.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -300,7 +300,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.1$ & $-34.5$ & $309.4$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $  0.2$ & $-38.6$ & $310.3$ & $  0.8$ & $  0.0$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $-35.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -308,7 +308,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.1$ & $-39.5$ & $309.2$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $  0.6$ & $-44.1$ & $310.3$ & $  0.9$ & $  0.1$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $-40.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -316,7 +316,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.1$ & $-44.5$ & $308.9$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $ -0.1$ & $-50.1$ & $310.3$ & $  1.1$ & $ -0.0$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $-45.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -324,7 +324,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.1$ & $-49.4$ & $309.0$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $  0.1$ & $-54.8$ & $310.5$ & $  1.0$ & $  0.0$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $-50.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -332,7 +332,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.1$ & $  0.2$ & $304.6$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $  0.2$ & $  0.0$ & $304.7$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $304.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -340,7 +340,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.0$ & $  0.2$ & $299.3$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ -0.3$ & $  0.1$ & $299.4$ & $  0.0$ & $ -0.1$ & $  0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $299.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -348,7 +348,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.1$ & $  0.1$ & $294.0$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ -0.3$ & $  0.2$ & $294.2$ & $ -0.0$ & $ -0.1$ & $  0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $294.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -356,7 +356,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.0$ & $  0.1$ & $288.9$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ -0.9$ & $  0.1$ & $289.0$ & $ -0.0$ & $ -0.2$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $289.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -364,7 +364,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.1$ & $  0.1$ & $283.7$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ -0.3$ & $  0.2$ & $283.8$ & $ -0.0$ & $ -0.1$ & $  0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $284.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -372,7 +372,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.1$ & $  0.0$ & $278.5$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ -0.5$ & $  0.3$ & $278.5$ & $ -0.1$ & $ -0.1$ & $  0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $279.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -380,7 +380,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.1$ & $ -0.0$ & $273.2$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ -0.8$ & $  0.0$ & $273.1$ & $ -0.0$ & $ -0.2$ & $  0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $274.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -388,7 +388,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.1$ & $ -0.0$ & $268.0$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ -0.4$ & $  0.6$ & $267.9$ & $ -0.1$ & $ -0.1$ & $  0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $269.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -396,7 +396,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.1$ & $ -0.0$ & $262.7$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ -0.1$ & $  0.5$ & $262.6$ & $ -0.1$ & $ -0.0$ & $  0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $264.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -404,7 +404,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.1$ & $ -0.0$ & $257.4$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ -0.1$ & $  0.5$ & $257.3$ & $ -0.1$ & $ -0.0$ & $  0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $259.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -412,7 +412,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.1$ & $  0.2$ & $304.9$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $ -0.3$ & $ -0.6$ & $305.0$ & $  0.1$ & $ -0.1$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $304.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -420,7 +420,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.0$ & $  0.2$ & $300.1$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $ -0.2$ & $  0.0$ & $300.3$ & $  0.0$ & $ -0.0$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $299.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -428,7 +428,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.1$ & $  0.2$ & $295.4$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $  0.2$ & $ -0.7$ & $295.5$ & $  0.2$ & $  0.1$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $294.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -436,7 +436,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.2$ & $  0.2$ & $290.5$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $ -0.3$ & $ -0.2$ & $290.7$ & $  0.1$ & $ -0.0$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $289.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -444,7 +444,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.2$ & $  0.3$ & $285.9$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $ -0.4$ & $  0.4$ & $286.1$ & $ -0.0$ & $ -0.0$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $284.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -452,7 +452,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.1$ & $  0.2$ & $281.1$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $  0.1$ & $  0.4$ & $281.2$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $279.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -460,7 +460,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.0$ & $  0.2$ & $276.1$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ -0.4$ & $ -1.1$ & $276.3$ & $  0.2$ & $ -0.1$ & $  0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $274.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -468,7 +468,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.1$ & $  0.2$ & $271.3$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $ -0.3$ & $ -2.0$ & $271.5$ & $  0.4$ & $ -0.0$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $269.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -476,7 +476,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.0$ & $  0.3$ & $266.4$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $ -0.5$ & $ -0.5$ & $266.6$ & $  0.1$ & $ -0.1$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $264.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -484,7 +484,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.1$ & $  0.2$ & $261.6$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $ -0.1$ & $ -0.5$ & $261.9$ & $  0.1$ & $ -0.0$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $259.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -492,7 +492,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.0$ & $-27.2$ & $308.7$ & $  4.9$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $ -0.1$ & $ 24.7$ & $308.8$ & $ -4.6$ & $ -0.0$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $-27.0$ & $308.3$ & $  5.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -500,7 +500,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.0$ & $-54.1$ & $305.3$ & $  9.7$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $ -0.1$ & $ 50.9$ & $305.5$ & $ -9.5$ & $  0.0$ & $  0.0$ \\ 
 {Elvac} & $  0.0$ & $-53.7$ & $304.8$ & $ 10.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -508,7 +508,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.0$ & $-81.1$ & $299.5$ & $ 14.6$ & $ -0.0$ & $ -0.0$ \\ 
+{Matlab} & $ -0.3$ & $ 76.6$ & $299.8$ & $-14.3$ & $ -0.1$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $-80.1$ & $299.0$ & $ 15.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -516,7 +516,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.0$ & $-107.4$ & $291.8$ & $ 19.5$ & $ -0.0$ & $ -0.0$ \\ 
+{Matlab} & $  0.2$ & $102.8$ & $292.2$ & $-19.4$ & $  0.0$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $-105.9$ & $290.8$ & $ 20.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -524,7 +524,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.0$ & $ 27.9$ & $308.4$ & $ -5.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $  0.0$ & $-25.2$ & $308.7$ & $  4.7$ & $  0.0$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $ 27.0$ & $308.3$ & $ -5.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -532,7 +532,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.0$ & $ 55.8$ & $305.3$ & $-10.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $  1.2$ & $-50.0$ & $305.7$ & $  9.3$ & $  0.2$ & $ -0.0$ \\ 
 {Elvac} & $  0.0$ & $ 53.7$ & $304.8$ & $-10.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -540,7 +540,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.0$ & $ 81.3$ & $299.6$ & $-14.6$ & $ -0.0$ & $ -0.0$ \\ 
+{Matlab} & $  1.6$ & $-77.4$ & $299.7$ & $ 14.5$ & $  0.3$ & $ -0.1$ \\ 
 {Elvac} & $  0.0$ & $ 80.1$ & $299.0$ & $-15.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -548,7 +548,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.1$ & $110.1$ & $291.6$ & $-20.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $  2.3$ & $-103.4$ & $291.6$ & $ 19.5$ & $  0.4$ & $ -0.1$ \\ 
 {Elvac} & $  0.0$ & $105.9$ & $290.8$ & $-20.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -556,7 +556,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ 11.1$ & $  0.1$ & $309.5$ & $  0.0$ & $  2.0$ & $  0.0$ \\ 
+{Matlab} & $-11.3$ & $  0.3$ & $309.6$ & $ -0.0$ & $ -2.1$ & $ -0.0$ \\ 
 {Elvac} & $ 10.8$ & $  0.0$ & $309.3$ & $  0.0$ & $  2.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -564,7 +564,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ 21.9$ & $  0.0$ & $309.2$ & $  0.0$ & $  3.9$ & $  0.0$ \\ 
+{Matlab} & $-22.9$ & $  0.0$ & $309.2$ & $ -0.0$ & $ -4.2$ & $  0.0$ \\ 
 {Elvac} & $ 21.6$ & $  0.0$ & $308.7$ & $  0.0$ & $  4.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -572,7 +572,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ 32.8$ & $ -0.0$ & $308.3$ & $  0.0$ & $  5.9$ & $ -0.0$ \\ 
+{Matlab} & $-33.9$ & $  0.2$ & $308.2$ & $ -0.0$ & $ -6.3$ & $ -0.0$ \\ 
 {Elvac} & $ 32.4$ & $  0.0$ & $307.8$ & $  0.0$ & $  6.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -580,7 +580,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ 43.7$ & $ -0.0$ & $307.2$ & $  0.0$ & $  7.8$ & $ -0.0$ \\ 
+{Matlab} & $-45.5$ & $  0.1$ & $306.9$ & $ -0.0$ & $ -8.5$ & $ -0.0$ \\ 
 {Elvac} & $ 43.1$ & $  0.0$ & $306.5$ & $  0.0$ & $  8.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -588,7 +588,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $-27.9$ & $  0.2$ & $308.4$ & $ -0.0$ & $ -5.0$ & $  0.0$ \\ 
+{Matlab} & $ 28.3$ & $  0.4$ & $308.6$ & $ -0.0$ & $  5.3$ & $  0.0$ \\ 
 {Elvac} & $-27.0$ & $  0.0$ & $308.3$ & $  0.0$ & $ -5.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -596,7 +596,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $-55.9$ & $  0.2$ & $304.8$ & $ -0.0$ & $-10.0$ & $  0.0$ \\ 
+{Matlab} & $ 55.6$ & $ -0.4$ & $304.9$ & $  0.1$ & $ 10.3$ & $ -0.0$ \\ 
 {Elvac} & $-53.7$ & $  0.0$ & $304.8$ & $  0.0$ & $-10.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -604,7 +604,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $-83.5$ & $  0.2$ & $299.1$ & $ -0.0$ & $-15.0$ & $  0.0$ \\ 
+{Matlab} & $ 82.6$ & $ -0.7$ & $298.7$ & $  0.2$ & $ 15.5$ & $ -0.1$ \\ 
 {Elvac} & $-80.1$ & $  0.0$ & $299.0$ & $  0.0$ & $-15.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -612,7 +612,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $-108.0$ & $  0.1$ & $291.4$ & $  0.0$ & $-19.5$ & $ -0.0$ \\ 
+{Matlab} & $107.9$ & $ -0.6$ & $290.4$ & $  0.1$ & $ 20.4$ & $ -0.0$ \\ 
 {Elvac} & $-105.9$ & $  0.0$ & $290.8$ & $  0.0$ & $-20.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -620,7 +620,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.0$ & $  0.1$ & $309.4$ & $ -0.0$ & $ -0.0$ & $ -2.1$ \\ 
+{Matlab} & $ -1.1$ & $  0.2$ & $309.9$ & $ -0.1$ & $ -0.2$ & $ -5.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  5.0$ \\ \hline 
 \end{tabular}
  
@@ -628,7 +628,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.0$ & $ -0.0$ & $305.3$ & $ -0.0$ & $ -0.0$ & $-10.6$ \\ 
+{Matlab} & $ -0.9$ & $ -0.0$ & $310.0$ & $ -0.0$ & $ -0.2$ & $-10.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $ 10.0$ \\ \hline 
 \end{tabular}
  
@@ -636,7 +636,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.1$ & $ -0.1$ & $282.1$ & $  0.0$ & $ -0.0$ & $ 11.3$ \\ 
+{Matlab} & $ -0.9$ & $ -0.4$ & $310.0$ & $  0.0$ & $ -0.2$ & $-15.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $ 15.0$ \\ \hline 
 \end{tabular}
  
@@ -644,7 +644,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.1$ & $ -0.2$ & $265.2$ & $  0.0$ & $ -0.0$ & $ 16.2$ \\ 
+{Matlab} & $ -0.3$ & $  0.0$ & $310.0$ & $ -0.0$ & $ -0.1$ & $-20.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $ 20.0$ \\ \hline 
 \end{tabular}
  
@@ -652,7 +652,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  0.0$ & $  0.0$ & $309.3$ & $ -0.0$ & $ -0.0$ & $  8.1$ \\ 
+{Matlab} & $ -0.2$ & $  0.7$ & $309.9$ & $ -0.1$ & $ -0.0$ & $  5.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $ -5.0$ \\ \hline 
 \end{tabular}
  
@@ -660,7 +660,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.1$ & $  0.4$ & $305.7$ & $ -0.0$ & $ -0.0$ & $ 10.5$ \\ 
+{Matlab} & $ -0.8$ & $  0.7$ & $310.0$ & $ -0.1$ & $ -0.1$ & $ 10.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $-10.0$ \\ \hline 
 \end{tabular}
  
@@ -668,7 +668,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.1$ & $  0.3$ & $282.1$ & $  0.0$ & $  0.0$ & $-11.4$ \\ 
+{Matlab} & $  0.1$ & $  0.2$ & $310.0$ & $  0.0$ & $  0.0$ & $ 15.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $-15.0$ \\ \hline 
 \end{tabular}
  
@@ -676,7 +676,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.2$ & $  0.3$ & $265.2$ & $  0.0$ & $ -0.0$ & $-16.2$ \\ 
+{Matlab} & $ -0.5$ & $ -0.1$ & $310.0$ & $  0.1$ & $ -0.1$ & $ 20.0$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $309.5$ & $  0.0$ & $  0.0$ & $-20.0$ \\ \hline 
 \end{tabular}
  
@@ -684,7 +684,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  4.9$ & $ 10.0$ & $309.6$ & $  0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $  5.1$ & $ 11.2$ & $309.9$ & $ -0.2$ & $  0.0$ & $ -0.0$ \\ 
 {Elvac} & $  5.0$ & $ 10.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -692,7 +692,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  9.8$ & $  4.9$ & $309.7$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $ 12.9$ & $  6.1$ & $310.0$ & $ -0.2$ & $  0.6$ & $ -0.0$ \\ 
 {Elvac} & $ 10.0$ & $  5.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -700,7 +700,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  9.9$ & $ 10.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $ 12.1$ & $ 10.4$ & $309.8$ & $ -0.1$ & $  0.4$ & $  0.0$ \\ 
 {Elvac} & $ 10.0$ & $ 10.0$ & $309.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -708,7 +708,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ 31.7$ & $-16.7$ & $301.1$ & $  4.9$ & $  4.9$ & $ -0.1$ \\ 
+{Matlab} & $-22.3$ & $ 35.4$ & $302.4$ & $ -4.7$ & $ -5.0$ & $ -0.5$ \\ 
 {Elvac} & $ 31.5$ & $-16.4$ & $302.2$ & $  5.0$ & $  5.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -716,7 +716,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ 62.0$ & $ 31.0$ & $279.7$ & $ -5.2$ & $  8.2$ & $ 11.9$ \\ 
+{Matlab} & $-32.9$ & $-19.4$ & $301.1$ & $  4.6$ & $ -8.0$ & $-14.3$ \\ 
 {Elvac} & $ 53.1$ & $ 31.7$ & $300.3$ & $ -5.0$ & $  8.0$ & $ 15.0$ \\ \hline 
 \end{tabular}
  
@@ -724,7 +724,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $-44.8$ & $-36.9$ & $241.4$ & $  5.2$ & $ -5.3$ & $ 21.6$ \\ 
+{Matlab} & $ 21.9$ & $ 13.4$ & $297.4$ & $ -4.3$ & $  5.0$ & $-24.6$ \\ 
 {Elvac} & $-31.1$ & $-36.0$ & $297.2$ & $  5.0$ & $ -5.0$ & $ 25.0$ \\ \hline 
 \end{tabular}
  
@@ -732,7 +732,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $-109.4$ & $-448.1$ & $ 85.2$ & $ 19.7$ & $-10.7$ & $ 40.2$ \\ 
+{Matlab} & $-4458.3$ & $11502.4$ & $1311.9$ & $283.6$ & $-192.1$ & $-80.0$ \\ 
 {Elvac} & $-38.7$ & $-73.9$ & $294.4$ & $ 15.0$ & $-10.0$ & $ 40.0$ \\ \hline 
 \end{tabular}
  
@@ -740,7 +740,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ 18.6$ & $-10.2$ & $269.9$ & $  0.2$ & $  4.0$ & $-11.1$ \\ 
+{Matlab} & $-34.7$ & $ -5.2$ & $299.6$ & $  0.1$ & $ -4.6$ & $ 15.0$ \\ 
 {Elvac} & $ 11.6$ & $ -5.0$ & $298.7$ & $  0.0$ & $  4.0$ & $-15.0$ \\ \hline 
 \end{tabular}
  
@@ -748,7 +748,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ 35.5$ & $-29.2$ & $278.5$ & $  4.8$ & $  5.8$ & $ 11.2$ \\ 
+{Matlab} & $-34.3$ & $ 24.6$ & $307.2$ & $ -4.6$ & $ -6.3$ & $-15.6$ \\ 
 {Elvac} & $ 32.4$ & $-26.8$ & $306.6$ & $  5.0$ & $  6.0$ & $ 15.0$ \\ \hline 
 \end{tabular}
  
@@ -756,7 +756,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $-64.6$ & $ 33.4$ & $262.0$ & $ -5.3$ & $-10.2$ & $-16.3$ \\ 
+{Matlab} & $ 56.2$ & $-25.6$ & $303.6$ & $  4.9$ & $ 10.5$ & $ 19.1$ \\ 
 {Elvac} & $-53.7$ & $ 26.6$ & $303.6$ & $ -5.0$ & $-10.0$ & $-20.0$ \\ \hline 
 \end{tabular}
  
@@ -764,7 +764,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $-76.9$ & $-48.9$ & $296.1$ & $  9.0$ & $-13.7$ & $  3.2$ \\ 
+{Matlab} & $ 82.8$ & $ 47.7$ & $294.6$ & $ -9.2$ & $ 15.5$ & $  2.5$ \\ 
 {Elvac} & $-80.1$ & $-51.9$ & $294.4$ & $ 10.0$ & $-15.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -772,7 +772,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -5.0$ & $-107.4$ & $291.8$ & $ 19.5$ & $ -0.0$ & $ -0.2$ \\ 
+{Matlab} & $ -4.7$ & $102.8$ & $292.2$ & $-19.4$ & $  0.1$ & $ -0.1$ \\ 
 {Elvac} & $ -5.0$ & $-105.9$ & $290.8$ & $ 20.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -780,7 +780,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $-27.7$ & $  9.9$ & $308.6$ & $  0.0$ & $ -4.9$ & $ -0.1$ \\ 
+{Matlab} & $ 28.4$ & $ 10.6$ & $308.5$ & $ -0.1$ & $  5.3$ & $ -0.0$ \\ 
 {Elvac} & $-27.0$ & $ 10.0$ & $308.3$ & $  0.0$ & $ -5.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -788,7 +788,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $ -0.5$ & $ -0.1$ & $169.5$ & $ -0.0$ & $ -0.0$ & $ 35.7$ \\ 
+{Matlab} & $ -0.9$ & $ -0.8$ & $304.8$ & $  0.1$ & $ -0.2$ & $-40.1$ \\ 
 {Elvac} & $  0.0$ & $  0.0$ & $304.5$ & $  0.0$ & $  0.0$ & $ 40.0$ \\ \hline 
 \end{tabular}
  
@@ -796,7 +796,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $-50.9$ & $-99.5$ & $247.5$ & $ 10.3$ & $ -5.5$ & $ 27.0$ \\ 
+{Matlab} & $ 41.3$ & $ 16.7$ & $306.7$ & $ -7.8$ & $  4.9$ & $-29.3$ \\ 
 {Elvac} & $-12.0$ & $-78.5$ & $303.6$ & $ 10.0$ & $ -5.0$ & $ 30.0$ \\ \hline 
 \end{tabular}
  
@@ -804,7 +804,7 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  9.9$ & $  4.9$ & $257.3$ & $ -0.0$ & $  0.0$ & $ -0.0$ \\ 
+{Matlab} & $ 11.9$ & $  5.7$ & $257.4$ & $ -0.2$ & $  0.4$ & $ -0.0$ \\ 
 {Elvac} & $ 10.0$ & $  5.0$ & $259.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
  
@@ -812,6 +812,6 @@
  
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline & X & Y & Z & alpha & beta & gamma \\ \hline 
-{Matlab} & $  5.1$ & $  9.9$ & $204.3$ & $ -0.0$ & $  0.0$ & $  0.0$ \\ 
+{Matlab} & $  5.4$ & $ 11.7$ & $204.4$ & $ -0.4$ & $  0.1$ & $ -0.0$ \\ 
 {Elvac} & $  5.0$ & $ 10.0$ & $209.5$ & $  0.0$ & $  0.0$ & $  0.0$ \\ \hline 
 \end{tabular}
