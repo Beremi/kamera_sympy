@@ -16,4 +16,4 @@ function [dF] = gradF(X,Y,Z,alpha,beta,gamma,S,f_presc,v,n,L)
 
 ff = 0.008; %focal length
 
-dF=gradF_python(X,Y,Z,alpha,beta,gamma,S,f_presc,v,n,L,ff);
+dF=gradF_python2(X,Y,Z,alpha,beta,gamma,S,f_presc,v,n,L,ff);

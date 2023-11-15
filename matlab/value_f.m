@@ -24,7 +24,7 @@ n=R*n;
 f = zeros(10,1);
 
 for i=1:5 
-    [res1, res2] = f_value_single_python(alpha, beta, gamma, X, Y, Z, L, v(1), v(2), v(3), n(1), n(2), n(3), ff, S(3*i-2), S(3*i-1), S(3*i));
+    [res1, res2] = f_value_single_python2(alpha, beta, gamma, X, Y, Z, L, v(1), v(2), v(3), n(1), n(2), n(3), ff, S(3*i-2), S(3*i-1), S(3*i));
     f(2*i-1) = res1;
     
     f(2*i) = res2;

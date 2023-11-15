@@ -6,7 +6,7 @@ dF = @(x) gradF(x(1),x(2),x(3),x(4),x(5),x(6),S,f_presc,v,n,L);
 ddF = @(x) hessF(x(1),x(2),x(3),x(4),x(5),x(6),S,f_presc,v,n,L);
 
 
-bounds = [25*1e-3,25*1e-3,50*1e-3,20*pi/180,20*pi/180,20]';
+bounds = [50*1e-3,50*1e-3,50*1e-3,20*pi/180,20*pi/180,20*pi/180]';
 
 points = bounds.*LatinHypercube(nn, 6);%
 
@@ -14,8 +14,8 @@ F_vals = zeros(nn,1);
 
 for i = 1:nn
     F_loc = F(points(:,i));
-    if  F_loc < 5
-        [x,~] = mini_newton(points(:,i),F,dF,ddF,2,1e-1);
+    if  F_loc < 1
+        [x,~] = mini_newton(points(:,i),F,dF,ddF,3,1e-1);
         for j = 4:6
             x(j) = mod(x(j),2*pi);
             if x(j) < -0.5

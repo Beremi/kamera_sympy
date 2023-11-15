@@ -45,7 +45,7 @@ L = 9.5*1e-3;
 
 fileID = fopen('Table.txt','w');
 
-for j=1:102
+for j=62:102
        
     x=X(j,:)';
     x=[Trasnform_matrix*x(1:3);Trasnform_matrix_rotation*x(4:6)];

@@ -16,6 +16,6 @@ function [F] = valueF(X,Y,Z,alpha,beta,gamma,S,f_presc,v,n,L)
 
 ff = 0.008; %focal length
 
-F = valueF_python(X,Y,Z,alpha,beta,gamma,S,f_presc,v,n,L,ff);
+F = valueF_python2(X,Y,Z,alpha,beta,gamma,S,f_presc,v,n,L,ff);
 
 end

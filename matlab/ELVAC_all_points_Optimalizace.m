@@ -165,8 +165,8 @@ end
 
 fclose(fileID);
 fclose(fileID2);
-
-figure
+figure(103)
+hold on
 plot(F_val)
 set(gca,"yscale","log")
 box on
