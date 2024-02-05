@@ -184,3 +184,15 @@ matlab/codegen/valueF_python/fixpt/fxptmp/valueF_python/interface/_coder_valueF_
 matlab/codegen/valueF_python/fixpt/fxptmp/valueF_python/interface/_coder_valueF_python_float_mex_info.h
 matlab/codegen/valueF_python/fixpt/fxptmp/valueF_python/interface/_coder_valueF_python_float_mex_mex.c
 matlab/codegen/valueF_python/fixpt/fxptmp/valueF_python/interface/_coder_valueF_python_float_mex_mex.h
+Michal_DE/fmin_DENewton.asv
+Michal_DE/fmin_DEvecNewton.asv
+Michal_DE/__pycache__/minimizers.cpython-311.pyc
+Michal_DE/__pycache__/value_F.cpython-311.pyc
+Michal_DE/__pycache__/valueF2.cpython-311.pyc
+Michal_DE/__pycache__/minimizers.cpython-311.pyc
+Michal_DE/__pycache__/value_F.cpython-311.pyc
+Michal_DE/__pycache__/valueF2.cpython-311.pyc
+Michal_DE/DE_test.asv
+Michal_DE/fmin_DE.asv
+Michal_DE/fmin_DEvec.asv
+Michal_DE/test_minimization.asv

@@ -1,4 +1,4 @@
-function [dF] = hessF(X,Y,Z,alpha,beta,gamma,S,f_presc,v,n,L)
+function [dF] = hessF(x,S,f_presc,v,n,L)
 % calculation of the gradient of the cost function F (sensitivity analysis)
 %
 %input:     X,Y,Z,alpha,beta,gamma - skalary 
@@ -15,5 +15,12 @@ function [dF] = hessF(X,Y,Z,alpha,beta,gamma,S,f_presc,v,n,L)
 %vse ve formatu double 
 
 ff = 0.008; %focal length
-
+X=x(:,1);Y=x(:,2);Z=x(:,3);alpha=x(:,4);beta=x(:,5);gamma=x(:,6);
 dF=hessF_python2(X,Y,Z,alpha,beta,gamma,S,f_presc,v,n,L,ff);
+% n = length(X);
+% for i=1:6
+%     for j=1:6
+%         dF{i,j} = reshape(dF{i,j},1,1,n);
+%     end
+% end
+% dF=cell2mat(dF);

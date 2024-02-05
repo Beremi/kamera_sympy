@@ -1,4 +1,4 @@
-function [x , it] = fmin_beres(S,f_presc,v,n,L,nn,epsilon)
+function [x , it] = Copy_of_fmin_beres(S,f_presc,v,n,L,nn,epsilon)
 %FMIN_BERES Summary of this function goes here
 %   Detailed explanation goes here
 F = @(x) valueF(x(1),x(2),x(3),x(4),x(5),x(6),S,f_presc,v,n,L);
@@ -41,7 +41,7 @@ for i = 1:ceil(nn/100)
     points(:,i) = x;
     F_vals(i) = F(x);
 end
-[F_vals, sortIdx] = sort(F_vals, 'ascend');
+[~, sortIdx] = sort(F_vals, 'ascend');
 
 % Use the sortIdx to sort the 'points' matrix column-wise
 points = points(:, sortIdx);
